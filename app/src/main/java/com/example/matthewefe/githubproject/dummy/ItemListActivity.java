@@ -1,4 +1,4 @@
-package com.example.matthewefe.githubproject;
+package com.example.matthewefe.githubproject.dummy;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,7 +14,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.matthewefe.githubproject.dummy.DummyContent;
+import com.example.matthewefe.githubproject.R;
 
 import java.util.List;
 
