@@ -39,6 +39,7 @@ public class ItemDetailActivity extends AppCompatActivity {
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
             actionBar.setDisplayHomeAsUpEnabled(true);
+            System.out.println("EFE");
         }
 
         // savedInstanceState is non-null when there is fragment state
